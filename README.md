@@ -11,7 +11,7 @@
 
 - 📄Techniques **Data Visualization· Data Cleaning· Data pipeline design· Exploratory Data Analysis· Database Management Systems· Statistics & Visualization for analytics· Data Extraction· Big data Essentials· Principles of Data Management & Mining· Structured Data Representation· Schema Design· NLP· REST APIs· Predictive Modeling· A/B Testing· Information Visualization· Clustering Methods·**
 
-- 👨‍💻 Former Project Engineer at [Wipro](Wipro)
+- 👨‍💻 Former Analyst at [Wipro](Wipro)
 
 - 🎯 Life Hack: **Explore 🔥 and Explode 💣 with knowledge**
 
