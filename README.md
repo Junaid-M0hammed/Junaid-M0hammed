@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Junaid Mohammed</h1>
+<h2 align="center"> IBM certified Data Analyst Professional</h2>
 <h3 align="center">🎓 A Data Analytics Engineering / Data Science graduate student at George Mason University.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=junaid-m0hammed&label=Profile%20views&color=0e75b6&style=flat" alt="junaid-m0hammed" /> </p>
