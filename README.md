@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👋, I'm Junaid Mohammed</h1>
-<h2 align="center"> IBM certified Data Analyst Professional</h2>
+<h2 align="center"> AWS Solutions Architect- Associate | IBM Data Analyst Professional</h2>
 <h3 align="center">🎓 A Data Analytics Engineering / Data Science graduate student at George Mason University.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=junaid-m0hammed&label=Profile%20views&color=0e75b6&style=flat" alt="junaid-m0hammed" /> </p>
 
-- 🔭 I’m currently working on [FMI](https://www.fmi.org/)
+- 🔭 I’m currently working as **Data Engineer** at [FMI](https://www.fmi.org/)
 
 - ⏳ Exploring **AWS & Microsoft Azure**
 
 - 🔬 My area of focus are **Data Analytics, Data Engineering, Machine Learning**
 
-- 📄Techniques **Data Visualization· Data Cleaning· Data pipeline design· Exploratory Data Analysis· Database Management Systems· Statistics & Visualization for analytics· Data Extraction· Big data Essentials· Principles of Data Management & Mining· Structured Data Representation· Schema Design· NLP· REST APIs· Predictive Modeling· A/B Testing· Information Visualization· Clustering Methods·**
+- 📄Techniques **Data Visualization· ETL· Data Modelling·VBA· Excel·Data Cleaning· Data pipeline design· Exploratory Data Analysis· Database Management Systems· Statistics & Visualization for analytics· Data Extraction· Big data Essentials· Principles of Data Management & Mining· Structured Data Representation· Schema Design· NLP· REST APIs· Predictive Modeling· A/B Testing· Information Visualization· Clustering Methods·**
 
 - 👨‍💻 Former Analyst at [DebugTech](DebugTech)
 
