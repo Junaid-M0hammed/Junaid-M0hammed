@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=junaid-m0hammed&label=Profile%20views&color=0e75b6&style=flat" alt="junaid-m0hammed" /> </p>
 
-- 🔭 I’m currently working on [FMI](FMI)
+- 🔭 I’m currently working on [FMI](https://www.fmi.org/)
 
 - ⏳ Exploring **AWS & Microsoft Azure**
 
