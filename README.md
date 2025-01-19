@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=junaid-m0hammed&label=Profile%20views&color=0e75b6&style=flat" alt="junaid-m0hammed" /> </p>
 
-- 🔭 I’m currently working on **Synthetic Flight Track Generation via Generative Adversarial Networks**
+- 🔭 I’m currently working on [FMI](FMI)
 
 - ⏳ Exploring **AWS & Microsoft Azure**
 
@@ -12,7 +12,7 @@
 
 - 📄Techniques **Data Visualization· Data Cleaning· Data pipeline design· Exploratory Data Analysis· Database Management Systems· Statistics & Visualization for analytics· Data Extraction· Big data Essentials· Principles of Data Management & Mining· Structured Data Representation· Schema Design· NLP· REST APIs· Predictive Modeling· A/B Testing· Information Visualization· Clustering Methods·**
 
-- 👨‍💻 Former Analyst at [Wipro](Wipro)
+- 👨‍💻 Former Analyst at [DebugTech](DebugTech)
 
 - 🎯 Life Hack: **Explore 🔥 and Explode 💣 with knowledge**
 
