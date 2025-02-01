@@ -12,8 +12,6 @@
 
 - 📄Techniques **Data Visualization· ETL· Data Modelling·VBA· Excel·Data Cleaning· Data pipeline design· Exploratory Data Analysis· Database Management Systems· Statistics & Visualization for analytics· Data Extraction· Big data Essentials· Principles of Data Management & Mining· Structured Data Representation· Schema Design· NLP· REST APIs· Predictive Modeling· A/B Testing· Information Visualization· Clustering Methods·**
 
-- 👨‍💻 Former Analyst at [DebugTech](DebugTech)
-
 - 🎯 Life Hack: **Explore 🔥 and Explode 💣 with knowledge**
 
 - ⚡ Fun fact: **I love to attend Meetups for learning & Conferences for Networking**
